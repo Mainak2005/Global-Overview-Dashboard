@@ -1,6 +1,6 @@
 🌍 Global Sales Overview Dashboard – Power BI
-📌 Project Overview
 
+📌 Project Overview
 This project is an interactive Power BI Dashboard designed to analyze and visualize global sales performance across different regions, categories, and shipping modes. The dashboard provides key business insights such as total sales, order trends, regional performance, and sub-category analysis to support data-driven decision-making.
 
 📊 Dashboard Preview
